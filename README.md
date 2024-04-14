@@ -1,6 +1,6 @@
-# Node.js + MySQL template (v1.1)
+# Node.js + MySQL + JWT template (v1)
 
-Esse é um template criado por mim para facilitar a criação de novos projetos de API's back-end (Node, Typescript, Express, MySQL). Ele é utilizado em outros templates com diferentes variações.
+Esse é um template criado por mim para facilitar a criação de novos projetos de API's back-end (Node, Typescript, Express, MySQL + JWT). Ele é utilizado em outros templates com diferentes variações.
 
 ## Setup
 
@@ -12,6 +12,8 @@ Esse é um template criado por mim para facilitar a criação de novos projetos 
 ```
 ├── Node.js template
 │   └── Node.js + MySQL template
+│   |   ├── Node.js + MySQL + JWT template
+│   |   └── Node.js + MySQL + OAuth template
 ```
 
 #### Node.js template
@@ -30,3 +32,7 @@ Esse é um template criado por mim para facilitar a criação de novos projetos 
 - Docker
 - MySQL
 - Dotenv
+
+#### Node.js + MySQL + JWT template
+
+- JWT Authentication
